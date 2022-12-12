@@ -14,7 +14,6 @@ def get_filters():
 <<<<<<< HEAD
 #d3
 =======
-#d22
 >>>>>>> documentation
 
      list_of_cites ='w','c','n' #To control the input
